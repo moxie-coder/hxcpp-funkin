@@ -1,4 +1,4 @@
-#if defined(HX_MACOS) || defined(IPHONE) || defined(APPLETV)
+#if defined(IPHONE) || defined(APPLETV)
 
 #include <Security/Security.h>
 #include <Security/SecureTransport.h>
